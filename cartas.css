@@ -1,0 +1,14 @@
+/* Filas impares de la tabla */
+table tbody tr:nth-child(odd) {
+    background-color: #7f00f7; /* morado claro */
+}
+
+.btn-primary:hover {
+    background-color: #7b1fa2;
+    border-color: #7b1fa2;
+}
+
+
+table th, table td {
+    color: #4b0082; 
+}
